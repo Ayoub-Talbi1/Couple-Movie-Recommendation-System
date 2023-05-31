@@ -1,6 +1,6 @@
-# Movie-Recommendation-System
+# Couple Movie Recommendation System
 
-Movie Date Recommendation System 
+The Movie Date Recommendation System is a web application designed for couples to find a movie that suits both of their preferences. It utilizes an Item-based collaborative filtering algorithm based on cosine similarity to recommend movies that are likely to be enjoyed by both individuals.
 
 ### Data Preprocessing
 
