@@ -17,15 +17,17 @@ To run the application, follow these steps:
 2. Open a command prompt or terminal in the project's directory.
 3. Run the following command:
 
-   ```shell
-   streamlit run app.py
-   ```
+  ```shell
+  streamlit run app.py
+  ```
 This will start the application locally, and you can access it in your web browser.
 
 ### File Structure
 
 `data_preprocessing.ipynb`: Jupyter Notebook for dataset preprocessing.
+
 `app.py`: Streamlit application file.
+
 `recommandation_system.py`: Module containing recommendation system functions.
 
 ### Dependencies
